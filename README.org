@@ -8,6 +8,6 @@ Automaton.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/amb007/cl-automaton.git |
-| commit  | 8cdc3c5                                        |
+| commit  | 84350e4                                        |
 | systems | automaton                                      |
 |---------+------------------------------------------------|
